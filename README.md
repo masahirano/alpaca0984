@@ -4,9 +4,15 @@
 
 I'm a Software Developer based in Berlin 🇩🇪 (originally from Japan 🇯🇵). I started my developer career as a backend developer. Now I'm enthusiastic about Android Development.
 
+### My current interest
+
+Good practices of Android Development. With below repository I'm trying out things like <!-- Multi-Module --> Clean Architecture, Jetpack, Architecture Components, Hilt or whatever:
+
+- [AlpacaMuscleMaintenance](https://github.com/alpaca0984/AlpacaMuscleMaintenance)
+
 ### How I deliver software changes
 
-As a software developer, I do care how I write code, commit changes and open pull requests. Here is my post which describes it
+As a software developer, I do care how I write code, commit changes and open pull requests. Here is my post which describes it:
 - [Clean code, clean commits and clean PR](https://gooogle4747.medium.com/clean-code-clean-commits-and-clean-pr-c401e3ece89c)
 
 ### Languages and Tools

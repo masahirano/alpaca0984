@@ -6,7 +6,7 @@ I'm a Software Developer based in Berlin 🇩🇪 (originally from Japan 🇯�
 
 ### My current interest
 
-Good practices of Android Development. With below repository I'm trying out things like <!-- Multi-Module --> Clean Architecture, Jetpack, Architecture Components, Hilt or whatever:
+Good practices of Android Development. With below repository I'm trying out things like Multi-Module Clean Architecture, Jetpack, Architecture Components, Hilt or whatever:
 
 - [AlpacaMuscleMaintenance](https://github.com/alpaca0984/AlpacaMuscleMaintenance)
 

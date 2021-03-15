@@ -44,6 +44,6 @@ Local Environment:
 <a href="https://github.com/tmux/tmux/wiki" target="_blank"><img src="./images/tmux-logo.png" alt="tmux" width="40" height="40" /></a>
 <a href="https://neovim.io/" target="_blank"><img src="./images/neovim-logo.png" alt="neovim" height="40" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/64px-Visual_Studio_Code_1.35_icon.svg.png" alt="visualstudiocode" width="40" height="40" /></a>
-<a href="https://developer.android.com/studio" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Android_Studio_Icon_2021.svg" alt="androidstudio" height="40" /></a>
+<a href="https://developer.android.com/studio" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Android_Studio_Icon_2020.svg" alt="androidstudio" height="40" /></a>
 
 <div align="right"><a href="https://www.freepik.com/vectors/travel">Travel vector created by vectorpocket - www.freepik.com</a></div>
